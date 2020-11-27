@@ -1,3 +1,5 @@
+package cn.ecut.dzy.old;
+
 import java.io.Serializable;
 
 public class People1 implements Cloneable, Serializable {

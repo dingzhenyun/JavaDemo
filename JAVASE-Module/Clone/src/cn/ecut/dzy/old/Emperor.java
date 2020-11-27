@@ -1,3 +1,5 @@
+package cn.ecut.dzy.old;
+
 public class Emperor {
     private static Emperor e=null;
     public Emperor(){}
