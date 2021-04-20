@@ -20,7 +20,7 @@ public class Test1 {
             student.setState((int)Math.round(Math.random()*9));
             student.setScore((int)Math.round(Math.random()*101));
             //年级：[1,6]
-          // (int)(Math.random() * (6 - 1 + 1) + 1);
+          // (int)(Math.random() * (6 - 1 + 1 ) + 1);
             //成绩：[0,100]
             //(int)(Math.random() * (100 - 0 + 1));
             count[i-1]=student;
